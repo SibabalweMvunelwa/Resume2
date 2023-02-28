@@ -1,4 +1,22 @@
 body {
     font-family: monaco, "Times New Roman", monospace;
-    color: red
+}
+
+header {
+    color: white;
+    background-color: #274156;
+}
+
+.Menu {
+    color: #1C6E8C; 
+    background-color: #D0CCD0
+}
+
+footer {
+    color: white;
+    background-color: #274156;
+}
+
+.link {
+    color: darkblue;
 }
