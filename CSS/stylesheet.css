@@ -5,11 +5,24 @@ body {
 header {
     color: white;
     background-color: #274156;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 0px;
 }
 
 .Menu {
     color: #1C6E8C; 
-    background-color: #D0CCD0
+    background-color: #D0CCD0;
+    width: 150px; 
+    margin-top: 0px;
+    padding: 0px;
+}
+
+article {
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 footer {
@@ -19,4 +32,11 @@ footer {
 
 .link {
     color: darkblue;
+}
+
+#pic {
+    margin-left: center;
+    margin-right: center;
+    border-radius: 50%;
+    border: 5px solid white;
 }
