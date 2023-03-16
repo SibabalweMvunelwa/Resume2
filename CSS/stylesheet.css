@@ -1,5 +1,6 @@
 body {
     font-family: monaco, "Times New Roman", monospace;
+    font-size: medium;
 }
 
 header {
@@ -65,4 +66,12 @@ footer {
     margin-right: center;
     border-radius: 50%;
     border: 5px solid white;
+}
+/* ***** Mobile **** */ 
+
+@media only screen and (max-width: 425px) {
+    body{ 
+        background-color: lightgreen;
+        font-size: 0.9em;
+    }
 }
